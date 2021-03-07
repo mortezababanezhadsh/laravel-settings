@@ -2,7 +2,7 @@
   "name": "dadehpardaz/laravel-settings",
   "description": "Store key value pair in database as settings",
   "minimum-stability": "dev",
-  "prefer-stable": true,
+  "prefer-stable": false,
   "homepage": "https://github.com/mortezababanezhadsh/laravel-settings",
   "type": "library",
   "license": "MIT",
